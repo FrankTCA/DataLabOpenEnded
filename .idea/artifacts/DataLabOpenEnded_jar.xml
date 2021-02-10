@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DataLabOpenEnded:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DataLabOpenEnded_jar</output-path>
+    <root id="archive" name="DataLabOpenEnded.jar">
+      <element id="module-output" name="DataLabOpenEnded" />
+    </root>
+  </artifact>
+</component>
